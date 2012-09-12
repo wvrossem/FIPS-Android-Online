@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">ips_android_fingerprinting</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section1">Section 1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_fingerprinting">Fingerprinting</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string-array name="Maps">
+        <item >Nearest neighbours</item>
+        <item >Bayesian</item>
+    </string-array>
+
+</resources>
