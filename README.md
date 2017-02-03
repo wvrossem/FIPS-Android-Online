@@ -23,15 +23,15 @@ In order for users to position themselves, a button is provided to iniate a WiFi
 
 ##### The main interface of the application
 
-![Main interface](https://dl.dropbox.com/s/cr60vt7xl25b8de/android5.png "Main interface")
+![Main interface](https://dl.dropbox.com/s/zm5ruvzsyf0u8ax/android5.png "Main interface")
 
 ##### WiFi scan in progress
 
-![WiFi scan](https://dl.dropbox.com/s/5faec52ueesw5b3/android6.png "WiFi scan")
+![WiFi scan](https://dl.dropbox.com/s/sni8v5g4gmbz9lk/android6.png "WiFi scan")
 
 ##### The settings menu
 
-![Settings menu](https://dl.dropbox.com/s/bc6lrq94y9akm8i/android7.png "Settings menu")
+![Settings menu](https://dl.dropbox.com/s/xa7x80xzfngniuo/android7.png "Settings menu")
 
 License
 -------
